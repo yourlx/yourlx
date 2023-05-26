@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**yourlx/yourlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 **Welcome to my profile!**
 
-Here are some ideas to get you started:
+*My name Maxat "yourlx" Bekiev!*
+<br>
+*Currently I'm a student and working on my graduate project.*
+<br>
+*You can contact me:*
+<br>
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourlx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **Leetcode:**
+
+<details> <summary>Stats</summary>
+
+![Leetcode](https://leetcard.jacoblin.cool/yourlx?theme=dark&font=ABeeZee&ext=heatmap)
+
+</details>
+
+[![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourlx/)
+
+</div>
