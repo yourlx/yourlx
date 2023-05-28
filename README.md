@@ -9,6 +9,7 @@
 *You can contact me:*
 <br>
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourlx)
+[![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxatbekiev@gmail.com)
 
 </div>
 
