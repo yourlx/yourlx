@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 **Welcome to my profile!**
 
 *My name Maxat "yourlx" Bekiev!*
@@ -11,11 +9,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourlx)
 [![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxatbekiev@gmail.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💡 **Leetcode:**
 
@@ -26,5 +20,3 @@
 </details>
 
 [![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourlx/)
-
-</div>
