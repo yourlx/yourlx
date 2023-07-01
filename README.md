@@ -2,7 +2,7 @@
 
 *My name Maxat "yourlx" Bekiev!*
 <br>
-*Currently I'm a student and working on my graduate project.*
+*Finally! I'm graduated this year and currently working on my personal projects.*
 <br>
 *You can contact me:*
 <br>
