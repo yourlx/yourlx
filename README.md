@@ -14,7 +14,7 @@
 <br>
 🖥️ *Currently working on personal projects.*
 <br>
-🔎 *Looking for a job as a C# developer.*
+🔎 *Looking for C# developer internship or full time job.*
 
 *You can contact me:*
 <br>
