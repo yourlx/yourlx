@@ -12,7 +12,7 @@
 
 👨‍🎓 *I'm graduated this year.*
 <br>
-🖥️ *Currently working on personal projects.*
+👨‍💻 *Currently working on personal projects.*
 <br>
 🔎 *Looking for C# backend internship or full time job.*
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<details> <summary>💡 Leetcode stats</summary>
+<details> <summary>Leetcode stats</summary>
 
 ![Leetcode](https://leetcard.jacoblin.cool/yourlx?theme=dark&font=ABeeZee&ext=heatmap)
 
