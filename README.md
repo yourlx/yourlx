@@ -8,15 +8,15 @@
 
 <div align="center">
 
-*My name Maxat "yourlx" Bekiev!*
+*My name Maxat "yourlx" Bekiev and I'm currently:*
 
-👨‍🎓 *I'm graduated this year.*
+🛠 *Learning C# and .NET.*
 <br>
-👨‍💻 *Currently working on personal projects.*
+👨‍💻 *Working on [C# Calculator](https://github.com/yourlx/DesktopCalculator) and [C++ Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
 <br>
 🔎 *Looking for C# backend internship or full time job.*
 
-*You can contact me:*
+*My contacts:*
 <br>
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/yourlx)
 [![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=gmail)](mailto:maxatbekiev@gmail.com)
