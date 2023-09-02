@@ -12,7 +12,7 @@
 
 🛠 *Learning C# and .NET.*
 <br>
-👨‍💻 *Working on [C# Calculator](https://github.com/yourlx/DesktopCalculator) and [C++ Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
+👨‍💻 *Working on [MVC Web app](https://github.com/yourlx/InfoDashboard) and [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
 <br>
 🔎 *Looking for C# backend internship or full time job.*
 
