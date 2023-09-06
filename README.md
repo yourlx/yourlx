@@ -12,9 +12,9 @@
 
 🛠 *Learning C# and .NET.*
 <br>
-👨‍💻 *Working on [MVC Web app](https://github.com/yourlx/InfoDashboard) and [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
+👨‍💻 *Working on [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT) and [MVC Web app](https://github.com/yourlx/InfoDashboard).*
 <br>
-🔎 *Looking for C# backend internship or full time job.*
+🔎 Looking for C# backend internship or full time job.
 
 *My contacts:*
 <br>
@@ -23,6 +23,7 @@
 
 </div>
 
+<!--
 <div align="center">
 
 <details> <summary>Leetcode stats</summary>
@@ -34,3 +35,4 @@
 [![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourlx/)
 
 </div>
+-->
