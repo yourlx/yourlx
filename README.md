@@ -12,8 +12,6 @@
 
 🛠 *Learning C# and .NET.*
 <br>
-🩹 *Fixing [Desktop Calculator](https://github.com/yourlx/DesktopCalculator).*
-<br>
 👨‍💻 *Working on [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT) and [MVC Web app](https://github.com/yourlx/InfoDashboard).*
 <!--
 <br>
