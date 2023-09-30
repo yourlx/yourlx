@@ -12,7 +12,7 @@
 
 🛠 *Learning C# and .NET.*
 <br>
-👨‍💻 *Working on [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT) and [MVC Web app](https://github.com/yourlx/InfoDashboard).*
+👨‍💻 *Working on [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
 <!--
 <br>
 🔎 Looking for C# backend internship or full time job.
