@@ -8,15 +8,11 @@
 
 <div align="center">
 
-*My name Maxat "yourlx" Bekiev and I'm currently:*
+*My name Maksat "yourlx" Bekiev and I'm currently:*
 
 🛠 *Learning C# and .NET.*
 <br>
 👨‍💻 *Working on [Multilayer Perceptron](https://github.com/Effectuss/Multilayer-Perceptron-CPP-QT).*
-<!--
-<br>
-🔎 Looking for C# backend internship or full time job.
--->
 
 *My contacts:*
 <br>
