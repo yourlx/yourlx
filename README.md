@@ -10,11 +10,7 @@
 
 <div align="center">
 
-*My name Maksat "yourlx" Bekiev:*
-
-👨‍💻 *Working at job.*
-<br>
-🛠 *Still learning C# and .NET.*
+*My name Maksat "yourlx" Bekiev!*
 
 *Contacts:*
 <br>
