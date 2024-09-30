@@ -16,15 +16,12 @@
 
 *Stack:*
 
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="tech icon" />
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" alt="tech icon" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" />
 <br>
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="tech icon" />
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="tech icon" />
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="tech icon" />
-<br>
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="tech icon" />
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" alt="tech icon" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" />
 
 *Stats:*
 
