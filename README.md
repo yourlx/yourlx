@@ -12,9 +12,11 @@
 
 *My name Maksat "yourlx" Bekiev!*
 
-<img height="100" width="100" src="https://media.tenor.com/BYWKHPuT7YcAAAAi/discord-discordgifemoji.gif" alt="debugging.gif" />
+<img height="100" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdzc2YybGo1eWM4aDg2aHl6ejAyOWZ4bmszMzkxbzdqOGlscDZkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="debugging.gif" />
+<img height="100" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dqYTl2MTNlbndiZGcyM2Q5bnFpajk4MWpneXV3NWJmdDVxdHQ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" alt="debugging.gif" />
+<img height="100" width="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMzcHhpMmg1ZHRwY2loOW10eWZ0NnBsMTZ0bWxmZm9lc3I3azBrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="debugging.gif" />
 
-*Main:*
+*Main stack:*
 
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" />
@@ -23,7 +25,7 @@
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" />
 
-<!-- *Additional:*
+<!-- *Additional stack:*
 
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" alt="logstash" />
