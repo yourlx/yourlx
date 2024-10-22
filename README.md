@@ -14,14 +14,25 @@
 
 <img height="100" width="100" src="https://media.tenor.com/BYWKHPuT7YcAAAAi/discord-discordgifemoji.gif" alt="debugging.gif" />
 
-*Stack:*
+*Main:*
 
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="csharp" />
-<img height="50" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" />
 <br>
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" />
 <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" />
+
+<!-- *Additional:*
+
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" alt="logstash" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" alt="kibana" />
+<br>
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" />
+<img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" /> -->
 
 *Stats:*
 
