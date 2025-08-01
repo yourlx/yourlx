@@ -42,8 +42,6 @@
 
 *Contacts:*
 
-[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/yourlx)
-[![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=gmail)](mailto:maxatbekiev@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maksatbekiev/) -->
 
 </div>
